@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [FunboxEasyEnum](README.md)
+* [Vegeta1](vegeta1.md)
